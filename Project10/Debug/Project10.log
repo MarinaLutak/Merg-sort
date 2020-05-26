@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Лутак Марина\source\repos\Project10\Project10\Source.c(64,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Лутак Марина\source\repos\Project10\Project10\Source.c(70,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Project10.vcxproj -> C:\Users\Лутак Марина\source\repos\Project10\Debug\Project10.exe
